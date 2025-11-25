@@ -17,4 +17,4 @@ This is a solution to the Testimonials Grid Section challenge on Frontend Mentor
 
 ## Live Demo 🔗
 
-[Click here to view the Live Website](LINK_YAHAN_PASTE_KAREIN)
+[Click here to view the Live Website](https://zainijaz166.github.io/testimonials-grid-section-main/)
